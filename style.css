@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-color: aqua;
+    color: black;
+}
+
+button{
+    border-style: ridge;
+    border-color: black;
+    border-radius: 5px;
+    background-color: aquamarine;
+    color: black;
+}
+
+input{
+    margin: 5px;
+}
